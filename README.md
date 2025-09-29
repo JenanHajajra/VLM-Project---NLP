@@ -25,3 +25,13 @@ This project uses 5 image folders (~3000 PNG images total). Due to size limitati
 - [Flux-Generated Cartoon Images](https://drive.google.com/drive/folders/1793_0s7vY96EtaD0Pc5ruZ0g1w4ekFoI?usp=sharing)
 - [Simplified Caption Images](https://drive.google.com/drive/folders/1qpMHYXg0jbBdfOnebsipn4MZRloPspKf?usp=sharing)
 - [Simplified Caption Images](https://drive.google.com/drive/folders/123QKCkCgb8udtaX1vsXCNOMFqhgmIYim?usp=sharing)
+
+
+## 👥 Authors
+
+This project was developed by:
+
+- Jenan Hajajra ([@JenanHajajra](https://github.com/JenanHajajra))
+- Aseel Sakhnini ([@ASEELUsername](https://github.com/aseel-sakhnini))
+
+For questions or collaboration, feel free to contact us.
