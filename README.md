@@ -21,8 +21,8 @@ This project uses 5 image folders (~3000 PNG images total). Due to size limitati
 
 ### 🔗 Google Drive Links
 
-- [Real COCO Images (630 PNGs)](https://drive.google.com/drive/folders/1L9lKaA5EJHEtyjbaHEYj3W86tPMgBAzB?usp=sharing)
-- [Flux-Generated Realistic Images](https://drive.google.com/drive/folders/YYYYY)
-- [Flux-Generated Cartoon Images](https://drive.google.com/drive/folders/ZZZZZ)
-- [Simplified Caption Images](https://drive.google.com/drive/folders/WWWWW)
-- [Simplified Caption Images](https://drive.google.com/drive/folders/WWWWW)
+- [Real COCO Images (630 PNGs)](https://drive.google.com/drive/folders/1G1ucXLwMytVNfmzJcCRnAN2Ix77XcpM5?usp=sharing)
+- [Flux-Generated Realistic Images](https://drive.google.com/drive/folders/1L9lKaA5EJHEtyjbaHEYj3W86tPMgBAzB?usp=sharing)
+- [Flux-Generated Cartoon Images](https://drive.google.com/drive/folders/1793_0s7vY96EtaD0Pc5ruZ0g1w4ekFoI?usp=sharing)
+- [Simplified Caption Images](https://drive.google.com/drive/folders/1qpMHYXg0jbBdfOnebsipn4MZRloPspKf?usp=sharing)
+- [Simplified Caption Images](https://drive.google.com/drive/folders/123QKCkCgb8udtaX1vsXCNOMFqhgmIYim?usp=sharing)
