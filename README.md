@@ -7,7 +7,7 @@ This repository contains the full code used in our project, including the six ex
 
 | Notebook | Description |
 |----------|-------------|
-| [`final_project_code.ipynb`](final_project_code.ipynb) | Main notebook containing the full pipeline for all 6 experiments, including loading data, running evaluations, and collecting results. |
+| [`final_project.ipynb`](final_project.ipynb) | Main notebook containing the full pipeline for all 6 experiments, including loading data, running evaluations, and collecting results. |
 | [`generate_qa_origin_caption.ipynb`](generate_qa_origin_caption.ipynb) | Generates QA pairs based on the original COCO captions. Used to build the VQA datasets for evaluation. |
 | [`generate_qa_simplified_caption.ipynb`](generate_qa_simplified_caption.ipynb) | Generates QA pairs based on simplified captions. Supports analysis of model performance on simplified input. |
 
